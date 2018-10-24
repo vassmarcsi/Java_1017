@@ -63,7 +63,4 @@ public class Szemely {
 		this.idProperty().set(id);
 	}
 	
-
-
-
 }
